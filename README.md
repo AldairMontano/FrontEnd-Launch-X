@@ -23,7 +23,7 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 
 Practicas
 
-Toma de requerimientos
+[Toma de requerimientos](https://github.com/AldairMontano/FrontEnd-Launch-X/blob/main/Requerimientos/1.-Reqierimientos.doc)
 
 [Crea tu buyer persona](https://www.hubspot.es/make-my-persona?persona=-Mx1tVlxxC_SzrxNeiMd)
 
