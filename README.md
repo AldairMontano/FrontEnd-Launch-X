@@ -24,7 +24,11 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 Practicas
 
 Toma de requerimientos
+
 [Crea tu buyer persona](https://www.hubspot.es/make-my-persona?persona=-Mx1tVlxxC_SzrxNeiMd)
+
 [Publico objetivo](https://miro.com/welcomeonboard/emFKZ2hXUHk3WXVMbzM5QzZaRktOUnB6OWZmMGFuMXM1QUtnZUI4V001YUFCdXJ4S3pacHFsclRvYnZibnprMHwzMDc0NDU3MzY1NzU5NzQwNTUx?invite_link_id=903791585510)
+
 [Crea tu primer Wireframe UX](https://www.figma.com/file/wTXYAhRsWqBg85TenwBSFb/Wireframe-UX-Practica-Launch-X?node-id=108%3A287)
+
 [Ahora el UI](https://www.figma.com/file/JxOsVc6W5pmT4gP1PxRTn3/Wireframe-UI-Practica-Launch-X?node-id=108%3A287)
