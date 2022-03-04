@@ -1,7 +1,7 @@
 # FrontEnd-Launch-X
 Practica de FrontEnd para el curso de Launch X
 
-## Caso: Abogabot Descripción:
+###Caso: Abogabot
 
 Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 
@@ -21,7 +21,7 @@ La página debe de ser responsive para poderla ver desde el celular.
 
 La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-Practicas
+Practicas:
 
 [Toma de requerimientos](https://github.com/AldairMontano/FrontEnd-Launch-X/blob/main/Requerimientos/1.-Reqierimientos.doc)
 
